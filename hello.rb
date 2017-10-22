@@ -1,0 +1,2 @@
+text = 'maro'
+puts text
