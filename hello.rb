@@ -1,5 +1,5 @@
 username = 'maro'
-status = 'absent'
+status = 'Leave of absence'
 output = username + ' is ' + status
 
 print output
